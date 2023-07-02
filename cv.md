@@ -10,7 +10,7 @@ Hello!I'm from Belarus.
 ### Skills
 * GIT
 * C#
-* Python
+* Python in process
 * JavaScript in process
 ## Education
 * Python courses
